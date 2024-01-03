@@ -5,19 +5,19 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu612fdd797044ce2440a8717a36a772af_3252_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://example.com/post/</link>
     </image>
     
     <item>
-      <title>The lab has a website</title>
-      <link>https://example.com/post/23-11-20-the-website/</link>
-      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/23-11-20-the-website/</guid>
-      <description>&lt;p&gt;The inofficial start of the lab. We have a website and are looking forward to grow over the next couple of months. So, if you&amp;rsquo;re interested in studying the interplay between actions and memory, or the perception of causality, please consider joining the lab in Berlin.&lt;/p&gt;
+      <title>Launch of the lab website</title>
+      <link>https://example.com/post/24-01-01-the-website/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/24-01-01-the-website/</guid>
+      <description>&lt;p&gt;We have a website. If you are interested in studying the interplay between actions and memory, or the perception of causality, please consider joining the lab in Berlin. Watch this space for new positions over the next couple of months.&lt;/p&gt;
 &lt;p&gt;I will be more than happy to discuss possibilities for you to join us.&lt;/p&gt;</description>
     </item>
     
