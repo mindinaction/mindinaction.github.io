@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Mind in Action Lab</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mindinaction.github.io/</link>
+      <atom:link href="https://mindinaction.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>The Mind in Action Lab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mindinaction.github.io/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
       <title>The Mind in Action Lab</title>
-      <link>https://example.com/</link>
+      <link>https://mindinaction.github.io/</link>
     </image>
     
     <item>
       <title>Example Event</title>
-      <link>https://example.com/event/example/</link>
+      <link>https://mindinaction.github.io/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/event/example/</guid>
+      <guid>https://mindinaction.github.io/event/example/</guid>
       <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -28,76 +28,84 @@
     </item>
     
     <item>
+      <title>Lawful kinematics link eye movements to the limits of high-speed perception</title>
+      <link>https://mindinaction.github.io/publication/rolfs.2024/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/publication/rolfs.2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual routines for detecting causal interactions are tuned to motion direction</title>
+      <link>https://mindinaction.github.io/publication/ohl.elife.2024/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/publication/ohl.elife.2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Launch of the lab website</title>
-      <link>https://example.com/post/24-01-01-the-website/</link>
+      <link>https://mindinaction.github.io/post/24-01-01-the-website/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/24-01-01-the-website/</guid>
+      <guid>https://mindinaction.github.io/post/24-01-01-the-website/</guid>
       <description>&lt;p&gt;We have a website. If you are interested in studying the interplay between actions and memory, or the perception of causality, please consider joining the lab in Berlin. Watch this space for new positions over the next couple of months.&lt;/p&gt;
 &lt;p&gt;I will be more than happy to discuss possibilities for you to join us.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Visual routines for detecting causal interactions are tuned to motion direction</title>
-      <link>https://example.com/publication/ohl.elife.2024/</link>
-      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ohl.elife.2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Playground</title>
-      <link>https://example.com/extra/</link>
+      <link>https://mindinaction.github.io/extra/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/extra/</guid>
+      <guid>https://mindinaction.github.io/extra/</guid>
       <description>&lt;p&gt;This is the playground to test local changes.&lt;/p&gt;
 &lt;p&gt;And implement different settings.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Saccadic selection in visual working memory is robust across the visual field and linked to saccade metrics: Evidence from nine experiments and more than 100,000 trials</title>
-      <link>https://example.com/publication/ohl.jepgen.2023/</link>
+      <link>https://mindinaction.github.io/publication/ohl.jepgen.2023/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ohl.jepgen.2023/</guid>
+      <guid>https://mindinaction.github.io/publication/ohl.jepgen.2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual short-term memory-related EEG components in a virtual reality setup</title>
-      <link>https://example.com/publication/klotzsche.psychophys.2023/</link>
+      <link>https://mindinaction.github.io/publication/klotzsche.psychophys.2023/</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/klotzsche.psychophys.2023/</guid>
+      <guid>https://mindinaction.github.io/publication/klotzsche.psychophys.2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://mindinaction.github.io/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/contact/</guid>
+      <guid>https://mindinaction.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>https://example.com/people/</link>
+      <link>https://mindinaction.github.io/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/people/</guid>
+      <guid>https://mindinaction.github.io/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tour</title>
-      <link>https://example.com/tour/</link>
+      <link>https://mindinaction.github.io/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tour/</guid>
+      <guid>https://mindinaction.github.io/tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://mindinaction.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://mindinaction.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

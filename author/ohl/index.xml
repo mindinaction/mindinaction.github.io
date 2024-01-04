@@ -2,37 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ohl | The Mind in Action Lab</title>
-    <link>https://example.com/author/ohl/</link>
-      <atom:link href="https://example.com/author/ohl/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mindinaction.github.io/author/ohl/</link>
+      <atom:link href="https://mindinaction.github.io/author/ohl/index.xml" rel="self" type="application/rss+xml" />
     <description>Ohl</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mindinaction.github.io/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
       <title>Ohl</title>
-      <link>https://example.com/author/ohl/</link>
+      <link>https://mindinaction.github.io/author/ohl/</link>
     </image>
     
     <item>
+      <title>Lawful kinematics link eye movements to the limits of high-speed perception</title>
+      <link>https://mindinaction.github.io/publication/rolfs.2024/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/publication/rolfs.2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Visual routines for detecting causal interactions are tuned to motion direction</title>
-      <link>https://example.com/publication/ohl.elife.2024/</link>
-      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ohl.elife.2024/</guid>
+      <link>https://mindinaction.github.io/publication/ohl.elife.2024/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/publication/ohl.elife.2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Saccadic selection in visual working memory is robust across the visual field and linked to saccade metrics: Evidence from nine experiments and more than 100,000 trials</title>
-      <link>https://example.com/publication/ohl.jepgen.2023/</link>
+      <link>https://mindinaction.github.io/publication/ohl.jepgen.2023/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ohl.jepgen.2023/</guid>
+      <guid>https://mindinaction.github.io/publication/ohl.jepgen.2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual short-term memory-related EEG components in a virtual reality setup</title>
-      <link>https://example.com/publication/klotzsche.psychophys.2023/</link>
+      <link>https://mindinaction.github.io/publication/klotzsche.psychophys.2023/</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/klotzsche.psychophys.2023/</guid>
+      <guid>https://mindinaction.github.io/publication/klotzsche.psychophys.2023/</guid>
       <description></description>
     </item>
     

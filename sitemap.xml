@@ -2,118 +2,138 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/author/sven-ohl/</loc>
+    <loc>https://mindinaction.github.io/author/sven-ohl/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/open-phd-position/</loc>
+    <loc>https://mindinaction.github.io/author/open-phd-position/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/open-shk-position/</loc>
+    <loc>https://mindinaction.github.io/author/open-shk-position/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/event/example/</loc>
+    <loc>https://mindinaction.github.io/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>https://mindinaction.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://mindinaction.github.io/publication-type/3/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/authors/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/author/castet/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/publication/rolfs.2024/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/author/ohl/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/publication_types/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/publication/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/author/rolfs/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/author/schweitzer/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/author/watson/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/publication/ohl.elife.2024/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/post/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/24-01-01-the-website/</loc>
+    <loc>https://mindinaction.github.io/post/24-01-01-the-website/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/3/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/authors/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/author/ohl/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication_types/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/author/rolfs/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/ohl.elife.2024/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/extra/</loc>
+    <loc>https://mindinaction.github.io/extra/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/kroell/</loc>
+    <loc>https://mindinaction.github.io/publication-type/2/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/ohl.jepgen.2023/</loc>
+    <loc>https://mindinaction.github.io/author/kroell/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/gaebler/</loc>
+    <loc>https://mindinaction.github.io/publication/ohl.jepgen.2023/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/author/gaebler/</loc>
     <lastmod>2023-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/klotzsche/</loc>
+    <loc>https://mindinaction.github.io/author/klotzsche/</loc>
     <lastmod>2023-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/nikulin/</loc>
+    <loc>https://mindinaction.github.io/author/nikulin/</loc>
     <lastmod>2023-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/sommer/</loc>
+    <loc>https://mindinaction.github.io/author/sommer/</loc>
     <lastmod>2023-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/villringer/</loc>
+    <loc>https://mindinaction.github.io/author/villringer/</loc>
     <lastmod>2023-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/klotzsche.psychophys.2023/</loc>
+    <loc>https://mindinaction.github.io/publication/klotzsche.psychophys.2023/</loc>
     <lastmod>2023-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://mindinaction.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://mindinaction.github.io/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/people/</loc>
+    <loc>https://mindinaction.github.io/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tour/</loc>
+    <loc>https://mindinaction.github.io/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/admin/</loc>
+    <loc>https://mindinaction.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://mindinaction.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://mindinaction.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

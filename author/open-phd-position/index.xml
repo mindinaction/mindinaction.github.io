@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open PhD-position | The Mind in Action Lab</title>
-    <link>https://example.com/author/open-phd-position/</link>
-      <atom:link href="https://example.com/author/open-phd-position/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mindinaction.github.io/author/open-phd-position/</link>
+      <atom:link href="https://mindinaction.github.io/author/open-phd-position/index.xml" rel="self" type="application/rss+xml" />
     <description>Open PhD-position</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/open-phd-position/avatar_hu0fb772da22b8e26d05e596032a063f11_169104_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://mindinaction.github.io/author/open-phd-position/avatar_hu0fb772da22b8e26d05e596032a063f11_169104_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Open PhD-position</title>
-      <link>https://example.com/author/open-phd-position/</link>
+      <link>https://mindinaction.github.io/author/open-phd-position/</link>
     </image>
     
   </channel>
