@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kalogeropoulou | The Mind in Action Lab</title>
+    <link>https://mindinaction.github.io/author/kalogeropoulou/</link>
+      <atom:link href="https://mindinaction.github.io/author/kalogeropoulou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kalogeropoulou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mindinaction.github.io/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
+      <title>Kalogeropoulou</title>
+      <link>https://mindinaction.github.io/author/kalogeropoulou/</link>
+    </image>
+    
+    <item>
+      <title>Setting and changing feature priorities in Visual Short-Term Memory</title>
+      <link>https://mindinaction.github.io/publication/kalogeropoulou.pbr.2017/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/publication/kalogeropoulou.pbr.2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
