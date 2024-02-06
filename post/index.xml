@@ -5,12 +5,20 @@
     <link>https://mindinaction.github.io/post/</link>
       <atom:link href="https://mindinaction.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mindinaction.github.io/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://mindinaction.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Apply as a student research assistant</title>
+      <link>https://mindinaction.github.io/post/24-02-01-call-for-shk/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/post/24-02-01-call-for-shk/</guid>
+      <description>&lt;p&gt;If you are currently enrolled as a student and would like to work in our laboratory in Berlin, then this job may be of interest to you. You will support us in collecting data for psychophysical experiments and gain insights into our day-to-day research work. If this sounds interesting, please apply by 14 February.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Call for PhD position</title>
