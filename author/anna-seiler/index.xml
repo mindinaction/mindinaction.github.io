@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna Seiler | The Mind in Action Lab</title>
+    <link>https://mindinaction.github.io/author/anna-seiler/</link>
+      <atom:link href="https://mindinaction.github.io/author/anna-seiler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna Seiler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mindinaction.github.io/author/anna-seiler/avatar_hu70cbec460490693068d20e03efa2826a_1560959_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Anna Seiler</title>
+      <link>https://mindinaction.github.io/author/anna-seiler/</link>
+    </image>
+    
+  </channel>
+</rss>
