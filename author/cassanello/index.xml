@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cassanello | The Mind in Action Lab</title>
+    <title>Cassanello | MIAlab</title>
     <link>https://mindinaction.github.io/author/cassanello/</link>
       <atom:link href="https://mindinaction.github.io/author/cassanello/index.xml" rel="self" type="application/rss+xml" />
     <description>Cassanello</description>

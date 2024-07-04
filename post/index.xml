@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest News | The Mind in Action Lab</title>
+    <title>Latest News | MIAlab</title>
     <link>https://mindinaction.github.io/post/</link>
       <atom:link href="https://mindinaction.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mindinaction.github.io/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>The MIAlab at VSS</title>
+      <link>https://mindinaction.github.io/post/24-05-15-vss/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/post/24-05-15-vss/</guid>
+      <description>&lt;p&gt;One of the annual highlights in our research calendar is just around the corner. The MIAlab is flying to VSS. Sven will be giving a talk on Saturday with the title &amp;ldquo;What Newton did not know about Newton&amp;rsquo;s cradle: Separating visual routines for cause and effect&amp;rdquo; in the talk session &amp;ldquo;Perception of Relations, Intuitive Physics.&amp;rdquo; A lot of other cool talks are in the same session and we are very excited.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Siri in the MIAlab</title>
+      <link>https://mindinaction.github.io/post/24-05-01-siri/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/post/24-05-01-siri/</guid>
+      <description>&lt;p&gt;We are delighted that Siri is now starting as a student assistant in the lab. She will be a great help to us in collecting data and we are already looking forward to programming new stimuli together with her. Siri is now officially the first lab member in our still young lab. Welcome Siri!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Lab visit in Oxford</title>
-      <link>https://mindinaction.github.io/post/24-02-01-call-for-shk-kopie/</link>
+      <link>https://mindinaction.github.io/post/24-02-01-oxford/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://mindinaction.github.io/post/24-02-01-call-for-shk-kopie/</guid>
+      <guid>https://mindinaction.github.io/post/24-02-01-oxford/</guid>
       <description>&lt;p&gt;We were in Oxford for a few days after being invited by Dejan Draschkow and his lab for a workshop on combining eye tracking and EEG in virtual reality. Felix Klotzsche gave a wonderful introduction, motivating but also highlighting some important considerations when using VR as a tool for cognitive neuroscience. On the last day, we had the pleasure of presenting our memory studies using eye movements, EEG and VR at the BEACON seminar. Thanks to our host we had the best time in Oxford.&lt;/p&gt;</description>
     </item>
     
