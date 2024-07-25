@@ -5,12 +5,28 @@
     <link>https://mindinaction.github.io/post/</link>
       <atom:link href="https://mindinaction.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mindinaction.github.io/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://mindinaction.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Workshop on causality and spatial relations in Berlin</title>
+      <link>https://mindinaction.github.io/post/24-07-22-ripe/</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/post/24-07-22-ripe/</guid>
+      <description>&lt;p&gt;We participated at the spontaneous RIPE workshop in Berlin. What a great opportunity to learn more about relations from so many smart people. Hopefully, this workshop will take place again next year.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New preprint on sensorimotor awareness.</title>
+      <link>https://mindinaction.github.io/post/24-07-03-preprintjan/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/post/24-07-03-preprintjan/</guid>
+      <description>&lt;p&gt;To do.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>The MIAlab at VSS</title>
