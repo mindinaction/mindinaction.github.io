@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laura van Zantwijk | MIAlab</title>
+    <link>https://mindinaction.github.io/author/laura-van-zantwijk/</link>
+      <atom:link href="https://mindinaction.github.io/author/laura-van-zantwijk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laura van Zantwijk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mindinaction.github.io/author/laura-van-zantwijk/avatar_hu42956f5edf0dd681dedf8fe66a3f66b3_175124_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Laura van Zantwijk</title>
+      <link>https://mindinaction.github.io/author/laura-van-zantwijk/</link>
+    </image>
+    
+  </channel>
+</rss>
