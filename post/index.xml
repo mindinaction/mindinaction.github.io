@@ -5,12 +5,20 @@
     <link>https://mindinaction.github.io/post/</link>
       <atom:link href="https://mindinaction.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mindinaction.github.io/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://mindinaction.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Welcome to the lab Laura</title>
+      <link>https://mindinaction.github.io/post/24-08-01-laura/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/post/24-08-01-laura/</guid>
+      <description>&lt;p&gt;We are very happy to welcome Laura van Zantwijk as a new PhD student in the MIAlab. Laura did her Master in Utrecht and has already contributed to many successful research projects on active perception. Welcome to Berlin Laura. We are so happy to have you here.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Workshop on causality and spatial relations in Berlin</title>
@@ -21,7 +29,7 @@
     </item>
     
     <item>
-      <title>New preprint on sensorimotor awareness.</title>
+      <title>New preprint on sensorimotor awareness</title>
       <link>https://mindinaction.github.io/post/24-07-03-preprintjan/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       <guid>https://mindinaction.github.io/post/24-07-03-preprintjan/</guid>
