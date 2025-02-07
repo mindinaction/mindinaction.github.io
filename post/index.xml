@@ -5,12 +5,20 @@
     <link>https://mindinaction.github.io/post/</link>
       <atom:link href="https://mindinaction.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mindinaction.github.io/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://mindinaction.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Inchara joins rolfslab and mialab</title>
+      <link>https://mindinaction.github.io/post/24-10-15-october/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/post/24-10-15-october/</guid>
+      <description>&lt;p&gt;I am so happy to welcome Inchara to Berlin. She received a scholarship from the Berlin School of Mind and Brain to pursue her PhD on the interplay between actions, perception and memory.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>September outlook</title>

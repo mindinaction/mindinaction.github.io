@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leonard Kempgens | MIAlab</title>
+    <link>https://mindinaction.github.io/author/leonard-kempgens/</link>
+      <atom:link href="https://mindinaction.github.io/author/leonard-kempgens/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leonard Kempgens</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mindinaction.github.io/author/leonard-kempgens/avatar_hu783c1d7a3c1a380ea74061c0a1eb0952_63833_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Leonard Kempgens</title>
+      <link>https://mindinaction.github.io/author/leonard-kempgens/</link>
+    </image>
+    
+  </channel>
+</rss>

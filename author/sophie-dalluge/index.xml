@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sophie Dallüge | MIAlab</title>
+    <link>https://mindinaction.github.io/author/sophie-dalluge/</link>
+      <atom:link href="https://mindinaction.github.io/author/sophie-dalluge/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sophie Dallüge</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mindinaction.github.io/author/sophie-dalluge/avatar_hube6538fd471b4827e6ef5463790a2737_186632_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Sophie Dallüge</title>
+      <link>https://mindinaction.github.io/author/sophie-dalluge/</link>
+    </image>
+    
+  </channel>
+</rss>

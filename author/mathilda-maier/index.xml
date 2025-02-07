@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathilda Maier | MIAlab</title>
+    <link>https://mindinaction.github.io/author/mathilda-maier/</link>
+      <atom:link href="https://mindinaction.github.io/author/mathilda-maier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mathilda Maier</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mindinaction.github.io/author/mathilda-maier/avatar_hu26ed5fd9b9ebe96f81e9fbb7ec6901a6_455192_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Mathilda Maier</title>
+      <link>https://mindinaction.github.io/author/mathilda-maier/</link>
+    </image>
+    
+  </channel>
+</rss>
