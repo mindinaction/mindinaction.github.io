@@ -20,7 +20,7 @@
     <loc>https://mindinaction.github.io/xalumni/lisa-reinhold/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mindinaction.github.io/anna-seiler/</loc>
+    <loc>https://mindinaction.github.io/xalumni/anna-seiler/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mindinaction.github.io/author/lina-schulz/</loc>
@@ -38,6 +38,62 @@
   </url><url>
     <loc>https://mindinaction.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/publication-type/2/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/publication-type/3/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/authors/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/author/castet/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/author/klanke/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/publication/rolfs.natcomm.2025/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/author/ohl/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/publication_types/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/publication/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/author/rolfs/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/author/schweitzer/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/publication/klanke.2024/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/author/watson/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/publication/ohl.elife.2025/</loc>
+    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mindinaction.github.io/post/</loc>
@@ -68,38 +124,6 @@
     <lastmod>2024-07-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mindinaction.github.io/publication-type/3/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/authors/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/author/klanke/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/author/ohl/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/publication_types/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/publication/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/author/rolfs/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/publication/klanke.2024/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://mindinaction.github.io/post/24-07-03-preprintjan/</loc>
     <lastmod>2024-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -122,30 +146,6 @@
   </url><url>
     <loc>https://mindinaction.github.io/post/24-01-17-call-for-phd-position/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/author/castet/</loc>
-    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/publication/rolfs.2024/</loc>
-    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/author/schweitzer/</loc>
-    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/author/watson/</loc>
-    <lastmod>2024-01-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/publication/ohl.elife.2024/</loc>
-    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/publication-type/2/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mindinaction.github.io/author/kroell/</loc>
