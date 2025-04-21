@@ -23,7 +23,7 @@
     <loc>https://mindinaction.github.io/xalumni/anna-seiler/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mindinaction.github.io/author/lina-schulz/</loc>
+    <loc>https://mindinaction.github.io/xalumni/lina-schulz/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mindinaction.github.io/author/leonard-kempgens/</loc>
@@ -40,15 +40,47 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mindinaction.github.io/publication-type/2/</loc>
-    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://mindinaction.github.io/publication-type/3/</loc>
-    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mindinaction.github.io/authors/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/post/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/post/25-04-10-preprint-capture/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/author/ohl/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/publication_types/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/publication/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/publication/sro.2025/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/author/rolfs/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/author/sommer/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/publication-type/2/</loc>
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -60,31 +92,11 @@
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mindinaction.github.io/post/</loc>
-    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://mindinaction.github.io/publication/rolfs.natcomm.2025/</loc>
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mindinaction.github.io/post/25-04-03-paper-elife/</loc>
-    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/author/ohl/</loc>
-    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/publication_types/</loc>
-    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/publication/</loc>
-    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/author/rolfs/</loc>
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -177,10 +189,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mindinaction.github.io/author/nikulin/</loc>
-    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mindinaction.github.io/author/sommer/</loc>
     <lastmod>2023-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

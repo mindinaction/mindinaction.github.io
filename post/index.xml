@@ -5,12 +5,20 @@
     <link>https://mindinaction.github.io/post/</link>
       <atom:link href="https://mindinaction.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mindinaction.github.io/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://mindinaction.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New preprint on causal capture</title>
+      <link>https://mindinaction.github.io/post/25-04-10-preprint-capture/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/post/25-04-10-preprint-capture/</guid>
+      <description>&lt;p&gt;Ben, Martin and Sven have a new preprint on causal capture. In their study, they pitted visual adaptation against contextual influences on causal perception and found that contextual influences escaped the strong influence of visual adaptation. Congratulations to Ben for submitting his first manuscript. For more information, see &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2025.04.10.648104v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2025.04.10.648104v1&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>New paper on the perception of causality</title>

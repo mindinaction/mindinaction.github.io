@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lina Schulz | MIAlab</title>
+    <link>https://mindinaction.github.io/xalumni/lina-schulz/</link>
+      <atom:link href="https://mindinaction.github.io/xalumni/lina-schulz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lina Schulz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mindinaction.github.io/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
+      <title>Lina Schulz</title>
+      <link>https://mindinaction.github.io/xalumni/lina-schulz/</link>
+    </image>
+    
+  </channel>
+</rss>
