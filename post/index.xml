@@ -5,12 +5,20 @@
     <link>https://mindinaction.github.io/post/</link>
       <atom:link href="https://mindinaction.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mindinaction.github.io/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://mindinaction.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New paper and press release</title>
+      <link>https://mindinaction.github.io/post/25-05-08-natcomm/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/post/25-05-08-natcomm/</guid>
+      <description>&lt;p&gt;This paper on the visibility of saccade-like motion has been long in the making and is finally out. In a tour de force this paper shows that the perceptual thresholds for high-speed motion perception during fixation can be predicted based on the lawful kinematics of saccadic eye movements. Check out the paper just published in Nature Communications LINK and the press release LINK.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Joint retreat of rolfslab and mialab</title>
