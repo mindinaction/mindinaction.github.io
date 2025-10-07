@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laura Ackermann | MIAlab</title>
+    <link>https://mindinaction.github.io/author/laura-ackermann/</link>
+      <atom:link href="https://mindinaction.github.io/author/laura-ackermann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laura Ackermann</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mindinaction.github.io/author/laura-ackermann/avatar_hue8c77a62b128eb0d2f06348239f10b32_327221_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Laura Ackermann</title>
+      <link>https://mindinaction.github.io/author/laura-ackermann/</link>
+    </image>
+    
+  </channel>
+</rss>
