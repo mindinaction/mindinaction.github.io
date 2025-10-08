@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Fischer | MIAlab</title>
+    <link>https://mindinaction.github.io/author/maria-fischer/</link>
+      <atom:link href="https://mindinaction.github.io/author/maria-fischer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria Fischer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mindinaction.github.io/author/maria-fischer/avatar_hufff84c4f4d2c87d35859f6167fa7d4a8_539338_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Maria Fischer</title>
+      <link>https://mindinaction.github.io/author/maria-fischer/</link>
+    </image>
+    
+  </channel>
+</rss>
