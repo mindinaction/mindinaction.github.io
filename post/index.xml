@@ -5,12 +5,22 @@
     <link>https://mindinaction.github.io/post/</link>
       <atom:link href="https://mindinaction.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mindinaction.github.io/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://mindinaction.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Many new students in the lab!</title>
+      <link>https://mindinaction.github.io/post/25-10-01-newpeople/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/post/25-10-01-newpeople/</guid>
+      <description>&lt;p&gt;Since the current semester, we have been lucky to welcome multiple new students to the lab.
+Laura Ackermann and Maria Fischer are conducting causality experiments in the lab as part of their bachelor theses in Psychology. Lara Ramp is working on microsaccades in her bachelor thesis. Gamze Kahyaoglu and Tessa Chambon are interns from The Netherlands enrolled in the Neuroscience and Cognition master programme. Gamze is doing a research project on corrective saccades, and Tessa is doing a literature assignment as well as an EEG project.
+Welcome to the lab all, we’re happy to have you!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Summer comes to an end</title>
