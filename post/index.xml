@@ -5,12 +5,22 @@
     <link>https://mindinaction.github.io/post/</link>
       <atom:link href="https://mindinaction.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mindinaction.github.io/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://mindinaction.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>The Mind in Action Lab is moving to Stendal</title>
+      <link>https://mindinaction.github.io/post/26-04-01-stendal/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/post/26-04-01-stendal/</guid>
+      <description>&lt;p&gt;The MIAlab is moving to Stendal. We are grateful for the many wonderful years at Humboldt-Universität zu Berlin that shaped our time.
+Now we are excited to begin a new chapter at the University of Applied Sciences Magdeburg-Stendal, where Sven will take on the Professorship for General Psychology. We look forward to the new opportunities, collaborations, and ideas that this move will bring.
+Thank you, Berlin – and hello Stendal.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Many new students in the lab!</title>
