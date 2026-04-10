@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>van Zantwijk | MIAlab</title>
+    <link>https://mindinaction.github.io/author/van-zantwijk/</link>
+      <atom:link href="https://mindinaction.github.io/author/van-zantwijk/index.xml" rel="self" type="application/rss+xml" />
+    <description>van Zantwijk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mindinaction.github.io/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
+      <title>van Zantwijk</title>
+      <link>https://mindinaction.github.io/author/van-zantwijk/</link>
+    </image>
+    
+    <item>
+      <title>The Spatial Specificity and Recovery from Visual Adaptation in  Causality Perception</title>
+      <link>https://mindinaction.github.io/publication/vzro.2026/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/publication/vzro.2026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
