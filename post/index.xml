@@ -5,12 +5,20 @@
     <link>https://mindinaction.github.io/post/</link>
       <atom:link href="https://mindinaction.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mindinaction.github.io/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://mindinaction.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New preprint on whether saccadic selection in memory spreads across objects</title>
+      <link>https://mindinaction.github.io/post/26-05-09-preprint1/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/post/26-05-09-preprint1/</guid>
+      <description>&lt;p&gt;In our new preprint, Olga investigated, through three extensive experiments, whether saccadic selection in visual working memory can extend to an object or occurs exclusively spatially at the saccade target. We found strong spatial selection and also report on object-based selection and where it can be found. A lot of energy and perseverance went into this project, and I am delighted to now see the final product on bioRxiv&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Intuitive Physics Workshop in Cambridge</title>
