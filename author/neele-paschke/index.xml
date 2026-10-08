@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neele Paschke | MIAlab</title>
+    <link>https://mindinaction.github.io/author/neele-paschke/</link>
+      <atom:link href="https://mindinaction.github.io/author/neele-paschke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neele Paschke</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mindinaction.github.io/author/neele-paschke/avatar,jpg_hu6cc5e910ba8960052a767f9e3a596b2e_992904_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Neele Paschke</title>
+      <link>https://mindinaction.github.io/author/neele-paschke/</link>
+    </image>
+    
+  </channel>
+</rss>
