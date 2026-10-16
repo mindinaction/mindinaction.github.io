@@ -5,9 +5,6 @@
     <loc>https://mindinaction.github.io/author/sven-ohl/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mindinaction.github.io/author/lara-wohmann/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://mindinaction.github.io/author/laura-van-zantwijk/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -15,6 +12,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mindinaction.github.io/author/josua-werum/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mindinaction.github.io/author/lara-wohmann/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mindinaction.github.io/xalumni/siri-tappesser/</loc>
