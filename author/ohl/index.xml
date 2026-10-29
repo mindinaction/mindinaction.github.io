@@ -5,12 +5,20 @@
     <link>https://mindinaction.github.io/author/ohl/</link>
       <atom:link href="https://mindinaction.github.io/author/ohl/index.xml" rel="self" type="application/rss+xml" />
     <description>Ohl</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mindinaction.github.io/media/icon_hub4dcace8ce2798ac95f15b515349aeea_1784_512x512_fill_lanczos_center_3.png</url>
       <title>Ohl</title>
       <link>https://mindinaction.github.io/author/ohl/</link>
     </image>
+    
+    <item>
+      <title>Space-based and object-based saccadic selection in visual working memory</title>
+      <link>https://mindinaction.github.io/publication/shurygina.2026/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/publication/shurygina.2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cardiorespiratory cycles couple with saccadic eye movements during active visual sampling</title>
@@ -21,34 +29,34 @@
     </item>
     
     <item>
-      <title>In pursuit of saccade awareness: Limited control and minimal conscious access to catch-up saccades during smooth pursuit eye movements</title>
-      <link>https://mindinaction.github.io/publication/klanke.2026/</link>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://mindinaction.github.io/publication/klanke.2026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Space-based and object-based saccadic selection in visual working memory</title>
-      <link>https://mindinaction.github.io/publication/shurygina.2026/</link>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://mindinaction.github.io/publication/shurygina.2026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Putting causality into context: Causal capture escapes the visual adaptation of causality</title>
-      <link>https://mindinaction.github.io/publication/sro.2025/</link>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://mindinaction.github.io/publication/sro.2025/</guid>
+      <link>https://mindinaction.github.io/publication/sommer.2025/</link>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/publication/sommer.2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Spatial Specificity and Recovery from Visual Adaptation in  Causality Perception</title>
       <link>https://mindinaction.github.io/publication/vzro.2026/</link>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://mindinaction.github.io/publication/vzro.2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye movements and selective processes in cognition: Attention, working memory, and awareness. In C. Klein &amp; U. Ettinger (Eds.), Eye movement research: An introduction to its scientific foundations and applications (2nd ed.). Springer.</title>
+      <link>https://mindinaction.github.io/publication/rolfs.2026/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/publication/rolfs.2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In pursuit of saccade awareness: Limited control and minimal conscious access to catch-up saccades during smooth pursuit eye movements</title>
+      <link>https://mindinaction.github.io/publication/klanke.2026/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://mindinaction.github.io/publication/klanke.2026/</guid>
       <description></description>
     </item>
     
